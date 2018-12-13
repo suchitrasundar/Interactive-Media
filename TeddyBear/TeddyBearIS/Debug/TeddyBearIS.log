@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\suchitra sundar\source\repos\teddybearis\teddybearis\header2.h(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\suchitra sundar\source\repos\teddybearis\teddybearis\header2.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\suchitra sundar\source\repos\teddybearis\teddybearis\header.h(88): warning C4018: '<': signed/unsigned mismatch
+  TeddyBearIS.vcxproj -> C:\Users\Suchitra Sundar\source\repos\TeddyBearIS\Debug\TeddyBearIS.exe
