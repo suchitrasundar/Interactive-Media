@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\suchitra sundar\source\repos\beizer_spline\beizer_spline\source.cpp(70): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Beizer_Spline.vcxproj -> C:\Users\Suchitra Sundar\source\repos\Beizer_Spline\x64\Debug\Beizer_Spline.exe
